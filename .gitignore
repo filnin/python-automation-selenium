@@ -1,0 +1,4 @@
+/.gradle
+/reports
+/venv
+/tests/.pytest_cache
